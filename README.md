@@ -5,8 +5,8 @@ Included in this repository:
 
 - Modefule 4 Written Assignment.docx
 - README.md
-- PyCitySchools folder:
-    -PyCitySchhols_Report.ipynb
+- PyCitySchools folder
+    - PyCitySchhols_Report.ipynb
     - Resources folder:
         - schools_complete.csv
         - students_complete.csv
