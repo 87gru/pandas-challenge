@@ -3,7 +3,7 @@ Module 4 Challenge
 
 Included in this repository:
 
-- Modefule 4 Written Assignment.docx
+- Moddule 4 Written Report.docx
 - README.md
 - PyCitySchools folder
     - PyCitySchhols_Report.ipynb
